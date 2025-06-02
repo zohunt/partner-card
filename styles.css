@@ -1,0 +1,38 @@
+.business-card {
+  width: 300px;
+  background-color: #fff0f5;
+  padding: 20px;
+  margin: 100px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.profile-image {
+  max-width: 100%;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto 15px;
+}
+
+.full-name {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #ff69b4;
+}
+
+.designation {
+  font-style: italic;
+  color: #ff1493;
+}
+
+.company {
+  color: #ff69b4;
+}
+
+.social-media h2 {
+  margin-top: 20px;
+  color: #ff1493;
+}
